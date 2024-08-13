@@ -10,7 +10,7 @@ Le dispositif utilise 4 moteurs pas à pas pour appuyer sur les cordes (frettes)
 le systeme est concu pour limiter au maximum la complexité et le cout du projet.
 
 ## Schema de principe 
-![Schema principe](https://raw.githubusercontent.com/glloq/ukulele_stepper_motor/main/img/schemas%20principe%20base.png?raw=true)
+![Schema principe](https://raw.githubusercontent.com/glloq/ukulele_stepper_motor/main/img/schemas%20principe%20base2.png?raw=true)
 
 ## Parties Mécaniques 
 
