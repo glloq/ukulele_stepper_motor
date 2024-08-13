@@ -7,8 +7,10 @@
 Ce projet vise à créer un dispositif capable de jouer automatiquement un ukulele en réponse à des messages MIDI reçus via USB. 
 Le dispositif utilise 4 moteurs pas à pas pour appuyer sur les cordes (frettes) et des moteurs ou des servomoteurs pour gratter les cordes , simulant ainsi le jeu d'un musicien.
 
+le systeme est concu pour limiter au maximum la complexité et le cout du projet.
+
 ## Schema de principe 
-![Schema princiê](https://raw.githubusercontent.com/glloq/ukulele_stepper_motor/main/img/schemas%20principe%20base.png?raw=true)
+![Schema principe](https://raw.githubusercontent.com/glloq/ukulele_stepper_motor/main/img/schemas%20principe%20base.png?raw=true)
 
 ## Parties Mécaniques 
 
